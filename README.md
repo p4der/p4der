@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathur</h1>
-<h3 align="center">A little boys with little programming skill.</h3>
+<h3 align="center">A boys with programming skill.</h3>
 
 <p align="left"> <a href="https://twitter.com/yaelahtur" target="blank"><img src="https://img.shields.io/twitter/follow/yaelahtur?logo=twitter&style=for-the-badge" alt="yaelahtur" /></a> </p>
 
